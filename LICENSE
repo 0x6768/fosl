@@ -1,0 +1,76 @@
+# Flexible Open Source License (FOSL)
+
+## Preamble
+
+Welcome to using the {Software Name} software and services!
+
+By using, copying, modifying, merging, publishing, distributing, sublicensing, and/or selling copies of the {Software Name} software (hereinafter referred to as "the Software"), you acknowledge that you have read, understood, and agreed to be bound by the terms and conditions of this {Software Name} License Agreement (hereinafter referred to as "this Agreement").
+
+Please carefully review all provisions of this Agreement, especially those that may limit or exclude our liability, govern your use of specific features or services, or require you to comply with additional terms. Provisions that limit liability may be emphasized in bold or other formats for clarity.
+
+By exercising any rights granted under this Agreement, you confirm your acceptance of all its terms.
+
+By using, copying, modifying, merging, publishing, distributing, sublicensing, and/or selling copies of the Software, you acknowledge and agree to be bound by the terms of this Agreement.
+
+## Article 1 Definitions
+1. **"The Software"**: Refers to the {替换成软件名称} software and all its components, including related documentation, data, source code, binary files, etc.
+2. **"Licensee"**: Refers to any individual, organization, or entity that accepts this Agreement and uses the Software.
+3. **"Derivative Works"**: Refers to any works created based on the Software or any part of it, including modifications, translations, adaptations, integrations, extensions, conversions, or other forms of creation.
+4. **"Distribution"**: Refers to the act of providing the Software or its derivative works to third parties in any form (including electronic and physical forms).
+
+## Article 2 License Grant
+1. **Unrestricted Use and Distribution**: Subject to the terms of this Agreement, the Copyright Owner hereby grants to you, free of charge, a perpetual, worldwide, non-exclusive, and irrevocable license to do the following:
+    - **Use**: Use the Software for any purpose.
+    - **Copy**: Make copies of the Software.
+    - **Modify**: Modify the Software.
+    - **Merge**: Merge the Software into other works.
+    - **Publish**: Publish the Software.
+    - **Distribute**: Distribute copies of the Software.
+    - **Sublicense**: Sublicense the above rights to others.
+    - **Sell**: Sell copies of the Software.
+2. **Propagation of Rights**: Each recipient of the Software from you must receive the same rights as specified in this Agreement. You must ensure that any distribution of the Software or its derivative works is accompanied by a copy of this Agreement, and that recipients agree to be bound by its terms.
+3. **Viral Nature**: Any distribution of the Software or its derivative works must be licensed under the same terms as this Agreement. This ensures that all recipients of the Software or its derivative works have the same rights and obligations as you do.
+
+
+## Article 3 Source Code Availability
+1. **Source Code Requirement**: If you distribute the Software or its derivative works, you must provide the complete source code of the Software or derivative works to the recipients. This can be done either by including the source code with the distributed copies or by providing a written offer to provide the source code upon request.
+2. **Documentation**: You must include a copy of this Agreement with any distributed copies of the Software or its derivative works.
+
+## Article 4 Intellectual Property
+1. **Copyright Notice**: All copies of the Software or derivative works must retain the original copyright notices and any other notices required by this Agreement.
+2. **Patent and Trademark Rights**: The Copyright Owner retains all patent and trademark rights related to the Software. You agree to defend, indemnify, and hold harmless the Copyright Owner from any claims arising from your use or distribution of the Software.
+
+## Article 5 No Warranty
+1. **Disclaimer of Warranty**: THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT OWNER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+## Article 6 Termination
+1. **Automatic Termination**: This Agreement will terminate automatically if you fail to comply with any of its terms. Upon termination, you must cease all use of the Software and destroy all copies in your possession or control.
+2. **Survival**: The provisions of Articles 4 and 5 shall survive any termination of this Agreement.
+
+## Article 7 General Provisions
+1. **No Modification of Agreement**: This Agreement is fixed and cannot be modified by the Copyright Owner or any other party. Any additional terms or conditions not explicitly stated in this Agreement are not binding. Any proposed modifications to this Agreement must be submitted through a transparent and community-driven process.
+2. **Governing Law**: This Agreement shall be governed by and construed in accordance with the laws of China. In the event of any dispute, the courts of China shall have exclusive jurisdiction.
+3. **Entire Agreement**: This Agreement constitutes the entire agreement between the parties with respect to the Software and supersedes all prior or contemporaneous understandings, whether written or oral. Both parties confirm that this Agreement is the result of mutual agreement and that there are no undisclosed oral or written commitments.
+4. **Language**: This Agreement is written in English. Any translations are for convenience only and are not authoritative. In the event of any discrepancy, the English version shall prevail.
+5. **Obligations not to the Developer**:
+   - The developer is not obliged to meet all the needs of users. The developer has the right to refuse unreasonable requirements, including but not limited to requests that are technically infeasible, outside the scope of the project, or would significantly burden the developer or the project community.
+   - Open source projects are based on the principle of voluntary participation, and developers are not obliged to meet the needs of all users. Users are encouraged to provide detailed information and reasoning when submitting requests for improvements or features, but the developer retains the sole discretion to accept or decline such requests.
+   - Unreasonable requirements include, but are not limited to, requests that are technically infeasible, outside the scope of the project, or would significantly burden the developer or the project community.
+   - Users are encouraged to provide constructive feedback and contributions to the project, but the developer retains the right to prioritize and manage the project’s development direction.
+
+## Article 8 Contributor License Grant
+
+1. By contributing to this project, you hereby grant the Copyright Owner a perpetual, worldwide, non-exclusive, royalty-free, sublicensable, and irrevocable license to use, modify, publish, distribute, sublicense, and sell the contributed code or content under the terms of this Agreement.
+
+## Article 9 Exception for Unmodified Software
+
+1. For the purposes of this Agreement, "unmodified" means that the source code of the Software has not been altered in any way, except for changes required to compile or install the Software on a specific platform.
+
+2. If the Software is used as a library or module in a software system, and no modifications are made to the original source code, then this Agreement does not impose any obligation to license the larger system under the same terms. This exception applies whether the Software is linked statically or dynamically.
+
+
+3. If you distribute the Software in its original, unmodified form (e.g., as a binary or source archive), you are only required to include an unaltered copy of this Agreement with the distributed copies. No further obligations under this License shall apply.
+
+4. If the Software is used as an external dependency or integrated into a larger software system without modification, you are not required to license your entire project under the terms of this Agreement. However, if you make any modifications to the Software itself, those modified files must be made available under the same terms as this Agreement.
+
+5. In addition to the above, no further obligations under this Agreement shall apply to your use or distribution of the unmodified Software, unless you modify, merge, or incorporate it into other works. 
