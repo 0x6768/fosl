@@ -1,5 +1,18 @@
 ## 📋 Flexible Open Source License (FOSL)
 
+A modern, modular-friendly open source license designed for developers who want freedom with responsibility.
+---
+
+## Why FOSL?
+
+- ✅ Free to use, modify, and distribute
+- ✅ Modular/library-friendly (see Article 9)
+- ✅ Clear warranty disclaimer (Article 5)
+- ✅ Developer免责 clause (Article 7.5)
+- ✅ Contributor License Grant (Article 8)
+- ✅ Contractual nature — you agree by using the software
+- ✅ Suitable for Chinese community projects (applies China law by default)
+---
 | Feature / License | MIT License | Apache 2.0 | GPL v3 | LGPL v3 | WTFPL | FOSL |
 |-------------------|-------------|------------|--------|---------|-------|------|
 | ✅ **Allows Commercial Use** | ✅ Yes | ✅ Yes | ✅ Yes | ✅ Yes | ✅ Yes | ✅ Yes |
@@ -42,3 +55,9 @@ This checklist helps enterprises and developers quickly understand:
 | ✅ Trademark & IP Control | Article 4.2 retains patent and trademark rights |
 | ✅ Suitable for Chinese Projects | Supports localization, Chinese law, and community-driven updates |
 | ✅ Clear Termination & Redistribution Rules | Articles 6 and 9 define what happens when you modify or distribute the software |
+
+---
+
+## 📌 Final One-Liner:
+
+> **FOSL strikes a balance between freedom and control — it's permissive like MIT, has module-friendliness like LGPL, and adds unique features like developer waiver clauses and community-driven governance.**
